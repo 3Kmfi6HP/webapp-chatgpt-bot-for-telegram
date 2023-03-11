@@ -1,0 +1,15 @@
+{
+    "name": "my-telegram-bot",
+    "version": "1.0.0",
+    "description": "A Telegram bot built with Node.js",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js"
+    },
+    "author": "Your Name",
+    "license": "MIT",
+    "dependencies": {
+      "telegraf": "^4.4.2"
+    }
+  }
+  
